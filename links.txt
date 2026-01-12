@@ -2,4 +2,4 @@ Projekt s paralelizací
 https://github.com/Wolfis07/NewsAnalyzer.git
 
 Projekt s RDBMS
-https://github.com/Wolfis07/SkladovySystem.git
+https://github.com/Wolfis07/SkladovySystem-D1.git
