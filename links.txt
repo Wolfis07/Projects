@@ -3,3 +3,6 @@ https://github.com/Wolfis07/NewsAnalyzer.git
 
 Projekt s RDBMS
 https://github.com/Wolfis07/SkladovySystem-D1.git
+
+Projekt P2P
+https://github.com/Dakaraijebe/BankP2P.git
